@@ -1,0 +1,10 @@
+﻿data/*
+*.parquet
+*.csv
+*.json
+*.xlsx
+__pycache__/
+*.pyc
+.venv/
+.env
+
